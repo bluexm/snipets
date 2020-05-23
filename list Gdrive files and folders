@@ -1,11 +1,8 @@
 ```javascript
-
 /* Adapted from Code written by @hubgit https://gist.github.com/hubgit/3755293
 Updated since DocsList is deprecated  https://ctrlq.org/code/19854-list-files-in-google-drive-folder
 
-Bluexm: added recursion of folders 
-
-*/
+Bluexm: added recursion on subfolders */
 
 // List all files and sub-folders in a folder and subfolders Google Drive
 // declare the starting folder name
